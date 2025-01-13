@@ -1,6 +1,6 @@
-package bruh;
+
 import java.util.*;
-public class question6 {
+public class Main {
     public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in);
         ArrayList<String> elements = new ArrayList<String>();
