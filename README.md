@@ -43,7 +43,9 @@ Additional Important Information:
 
 Sudden Death Penalties Portion Explanation: 
 
-	Sudden death penalties are a series of one on one penalty kicks in a penalty shootout that continues until one team scores and the other team misses. To implement this in my code I used the random function only giving the option of either 0 or 1. If 1 was chosen this would add into the semi final or final teams scores and if 0 was given no extra point was given. This is placed in a while loop that will keep going until one team gets 1 and the other gets 0.
+	Sudden death penalties are a series of one on one penalty kicks in a penalty shootout that continues until one team scores and the other team misses.
+ To implement this in my code I used the random function only giving the option of either 0 or 1. If 1 was chosen this would add into the semi final or final teams scores 
+ and if 0 was given no extra point was given. This is placed in a while loop that will keep going until one team gets 1 and the other gets 0.
 
 
 
